@@ -1,0 +1,1 @@
+sudo ssh -i "CameraOCR-AWS.pem" ubuntu@ec2-35-165-99-224.us-west-2.compute.amazonaws.com
